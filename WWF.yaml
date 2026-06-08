@@ -128,4 +128,4 @@ dependencies:
   - zeromq=4.3.5=h6a984cb_2
   - zlib=1.3.1=h1c6eee0_1
   - zstd=1.5.7=h56299aa_0
-prefix: x:\anaconda\envs\WWF
+prefix: X:\anaconda\envs\WWF
